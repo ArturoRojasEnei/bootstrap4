@@ -5,3 +5,15 @@
 #footer a{
   color: white;
 }
+
+#header img{
+  width: 80px;
+}
+
+body{
+  font-family: 'Lato', sans-serif;
+}
+
+.text-platzi{
+  color: #97c93e !important;
+}
